@@ -123,6 +123,3 @@ Selected Courses:
 
 Certifications:
 - Neural Networks and Deep Learning Specialization by Coursera 
-
-<img width="505" height="708" alt="image" src="https://github.com/user-attachments/assets/dba84f4e-edbc-403d-8c43-3fe545e91f09" />
-
