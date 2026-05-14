@@ -5,9 +5,13 @@ Mesut Ozdag, Ph.D.
 Profile:
 
 • Assistant Professor of CS, FinTech, Digital Forensics.
+
 • IE Assessment Coordinator: CS MS, CS Ph.D., FinTech MS.
+
 • AI Engineer.
+
 • Image Processing Research Scientist.
+
 • Scientific Reviewer for journals in Medical Image Analysis:
 1.	IEEE Transactions on Medical Imaging
 2.	IEEE Journal of Biomedical and Health Informatics
@@ -19,8 +23,10 @@ Profile:
 EDUCATION:
 Ph.D., Computer Science, University of Central Florida, Orlando, FL
 August 2015 — April 2020, (407)823-2156
+
 M.Sc., Computer Science, University of Central Florida, Orlando, FL
 August 2013 — August 2015, (407)823-2156
+
 B.Sc., Mathematics and Computer Science, Istanbul Kultur University, Istanbul, Türkiye
 September 2006 — July 2010, +90(212)498-4141
 
@@ -28,17 +34,25 @@ WORK EXPERIENCE:
 1.	Assistant Professor at Karabuk University 
 09/08/2025 - Present
          • Faculty of Computer Science.
+  	
          • Chair of KAPGEM IT Policy Committee.
+  	
          • Publications: Paper at IEEE IGARSS conference 2026, Academic book at the Nobel Publishing Group.
+  	
          • 2 research projects under TUBITAK 2209-A.
+  	
          • Joined the Erasmus+ KA131 Staff Mobility Program.
 
-2.	Assistant Professor at UCF 
+3.	Assistant Professor at UCF 
 05/27/2022 — 08/08/2025
          • Faculty of CS, Digital Forensics and FinTech Master’s degree programs at UCF. UCF is one of the leading institutions across the country who initiated the FinTech program. As a FinTech Initiative, brand-new lecture materials have been created and taught for the following courses in this program:
+  	
         1. COT 5480 – Computational Methods in FinTech I (Data Structures and Algorithms)
+  	
         2. COT 6481 – Computational Methods in FinTech II (Machine Learning)
+  	
         3. CAP 5619 – Artificial Intelligence for FinTech
+  	
 Other courses: COT 3100, CDA 3103, CNT 4403, CNT 4704, CAP 4102, CGS 5131, CNT 5805, CNT 6418.
 
 Publication: Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions, International Journal of Artificial Intelligence and Applications (IJAIA), Vol.16, No.3, May 2025
