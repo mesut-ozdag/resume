@@ -1,0 +1,172 @@
+{
+  "name": "Mesut Ozdag, Ph.D.",
+  "title": "Assistant Professor of CS, FinTech, Digital Forensics.",
+  "email": "mesut.ozdag@karabuk.edu.tr",
+  "location": "Karabük, Türkiye",
+  "website": "https://unis.berkantkazangirler.tech",
+  "profileImage": "./team/mesutozdagai.webp",
+  "specialties": [
+    "AI model development",
+    "Algorithm research & publications",
+    "Data analysis",
+    "Project Management",
+    "Mentorship",
+    "Cross-functional collaboration",
+    "Python", "C++", "Matlab", "SQL", "Tensorflow", "PyTorch", "Keras", "Theano", "Scikit-learn", "AWS", "OpenCV", "Dockerfile",
+    "BeautifulSoup", "matplotlib", "pandas", "numpy", "scipy", "seaborn", "SoapUI", "JIRA", "HP QC & QTP",
+    "AI Engineer",
+    "Image Processing Research Scientist"
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/mesutozdag/",
+    "github": "https://github.com/mesut-ozdag",
+    "youtube": "https://www.youtube.com/@mstozdag",
+    "scholar": "https://t.ly/TZ9zw"
+  },
+  "education": [
+    {
+      "degree": "Ph.D., Computer Science",
+      "institution": "University of Central Florida, Orlando, FL",
+      "specialization": "Deep Learning, Adversarial Attacks, Medical Image Analysis",
+      "duration": "August 2015 — April 2020"
+    },
+    {
+      "degree": "M.Sc., Computer Science",
+      "institution": "University of Central Florida, Orlando, FL",
+      "specialization": "Computer Science",
+      "duration": "August 2013 — August 2015"
+    },
+    {
+      "degree": "B.Sc., Mathematics and Computer Science",
+      "institution": "Istanbul Kultur University, Istanbul, Türkiye",
+      "specialization": "Mathematics and Computer Science",
+      "duration": "September 2006 — July 2010"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Assistant Professor",
+      "company": "Karabuk University",
+      "duration": "09/08/2025 - Present",
+      "status": "current",
+      "achievements": [
+        "Faculty of Computer Science.",
+        "IE Assessment Coordinator: CS MS, CS Ph.D., FinTech MS.",
+        "Chair of KAPGEM IT Policy Committee.",
+        "Publications: Paper at IEEE IGARSS conference 2026, Academic book at the Nobel Publishing Group.",
+        "2 research projects under TUBITAK 2209-A.",
+        "Joined the Erasmus+ KA131 Staff Mobility Program."
+      ]
+    },
+    {
+      "position": "Assistant Professor",
+      "company": "University of Central Florida",
+      "duration": "05/27/2022 — 08/08/2025",
+      "status": "past",
+      "achievements": [
+        "Faculty of CS, Digital Forensics and FinTech Master’s degree programs at UCF.",
+        "Created brand-new lecture materials for: COT 5480 (Data Structures), COT 6481 (Machine Learning), CAP 5619 (AI for FinTech).",
+        "Taught: COT 3100, CDA 3103, CNT 4403, CNT 4704, CAP 4102, CGS 5131, CNT 5805, CNT 6418.",
+        "Publication: 'Ai-Driven Vulnerability Analysis in Smart Contracts', IJAIA, May 2025."
+      ]
+    },
+    {
+      "position": "Scientific Solutions Engineer",
+      "company": "Flywheel Inc.",
+      "duration": "Mar 2021 — April 2022",
+      "achievements": [
+        "Developed DL models for body parts classification, Pneumonia classification, and MRI brain segmentation.",
+        "Implemented MRI Quality QC classification and Federated Learning using AWS.",
+        "API testing implemented using Pytest library."
+      ]
+    },
+    {
+      "position": "AI Algorithm Engineer",
+      "company": "Roche Molecular Systems",
+      "duration": "May 2020 — Mar 2021",
+      "achievements": [
+        "Pathology image analysis (H&E-stained images) for cancer prognosis prediction.",
+        "Developed Nuclei segmentation framework using Dynamic U-Net architecture.",
+        "Applied Pyradiomics features (morphological, texture, GLCM) for DLBCL detection."
+      ]
+    },
+    {
+      "position": "Research Assistant",
+      "company": "University of Central Florida",
+      "duration": "August 2015 — April 2020",
+      "achievements": [
+        "Ph.D. dissertation: Adversarial attacks on DL models by natural and digital perturbations.",
+        "Publication 1: 'Adversarial Attacks and Defenses against Deep Neural Networks: A Survey' (Procedia CS, 2018).",
+        "Publication 2: 'On the Susceptibility of Deep Neural Networks to Natural Perturbations' (IJCAI 2019) - Selected BEST PAPER CANDIDATE.",
+        "Project: 'Directed Adversarial Attacks on Fingerprints using Attributions' (ICB 2019) with RBC Bank. VeriFinger SDK matching score >250.",
+        "Teaching: Recitations for Computer Logic & Organization, C Programming, and Systems Software."
+      ]
+    },
+    {
+      "position": "Deep Learning Research Scientist Intern",
+      "company": "Siemens Healthineers, Princeton, NJ",
+      "duration": "December 2017 — May 2018",
+      "achievements": [
+        "Created end-to-end model for Vessel Centerline Tracing for 3D medical volumes (Aorta/Vertebral/Carotid).",
+        "Utilized Deep Reinforcement Learning with CNNs (Theano and Lasagne)."
+      ]
+    },
+    {
+      "position": "Software Test Engineer",
+      "company": "Vodafone, Istanbul, Turkey",
+      "duration": "March 2013 — August 2013",
+      "achievements": [
+        "Unit, integration, acceptance and system testing using regression analysis, SQL and JIRA."
+      ]
+    },
+    {
+      "position": "Software Test Specialist",
+      "company": "TTNET, Istanbul, Turkey",
+      "duration": "September 2010 — September 2011",
+      "achievements": [
+        "Developing test plans/scripts and passed to live version."
+      ]
+    }
+  ],
+  "highlighted_projects": [
+    "Body parts classification",
+    "Pneumonia classification",
+    "MRI brain pre-processing and segmentation",
+    "MRI quality QC classification",
+    "Federated learning",
+    "Cancer prognosis prediction",
+    "Adversarial attacks on fingerprints",
+    "Vessel Centerline Tracing with Reinforcement Learning",
+    "Track Points in Video using Kanade-Lucas-Tomasi Algorithm",
+    "Graph-Cut 3-D Medical Image Segmentation",
+    "Diffeomorphic Medical Image Registration using B-Splines",
+    "Lung Lobe Segmentation of CT images on LOLA11 dataset",
+    "Stereo Reconstruction and Affine Structure from Motion"
+  ],
+  "academic_service": [
+    "IEEE Transactions on Medical Imaging",
+    "IEEE Journal of Biomedical and Health Informatics",
+    "The International Journal of Medical Physics Research and Practice",
+    "Journal of Frontiers in Radiology",
+    "Advanced Intelligent Systems",
+    "Evolving Systems"
+  ],
+  "selected_courses": [
+    "Data Structures and Algorithms",
+    "Discrete Structures",
+    "Computer Logic and Organization",
+    "Image Processing",
+    "Medical Image Analysis",
+    "Computer Vision",
+    "Machine Learning Algorithms"
+  ],
+  "certifications": [
+    "Neural Networks and Deep Learning Specialization by Coursera"
+  ],
+  "publications": [
+    "Best Paper Candidate: 'On the Susceptibility of Deep Neural Networks to Natural Perturbations' - IJCAI 2019",
+    "'Adversarial Attacks and Defenses against Deep Neural Networks' - Procedia Computer Science, 2018",
+    "'Directed Adversarial Attacks on Fingerprints' - International Conference on Biometrics, 2019",
+    "Scientific Reviewer for top journals in Medical Image Analysis"
+  ]
+}
