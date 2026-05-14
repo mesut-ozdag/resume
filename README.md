@@ -90,6 +90,7 @@ March 2013 — August 2013, +90(850)542-0000
 8.	Software Test Specialist at TTNET, Istanbul, Turkey
 September 2010 — September 2011, +90(212)309-1000
         · Developing test plans/scripts and passed to live version.	                           
+
 Contact:
 mesut.ozdag@karabuk.edu.tr
 
