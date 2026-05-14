@@ -1,11 +1,13 @@
 # Mesut Ozdag's Resume
 
 Mesut Ozdag, Ph.D.
-Profile
-• Assistant Professor of CS, FinTech, Digital Forensics
-• IE Assessment Coordinator: CS MS, CS Ph.D., FinTech MS
-• AI Engineer
-• Image Processing Research Scientist
+
+Profile:
+
+• Assistant Professor of CS, FinTech, Digital Forensics.
+• IE Assessment Coordinator: CS MS, CS Ph.D., FinTech MS.
+• AI Engineer.
+• Image Processing Research Scientist.
 • Scientific Reviewer for journals in Medical Image Analysis:
 1.	IEEE Transactions on Medical Imaging
 2.	IEEE Journal of Biomedical and Health Informatics
@@ -13,14 +15,16 @@ Profile
 4.	Journal of Frontiers in Radiology
 5.	Advanced Intelligent Systems
 6.	Evolving Systems 
-EDUCATION
+
+EDUCATION:
 Ph.D., Computer Science, University of Central Florida, Orlando, FL
 August 2015 — April 2020, (407)823-2156
 M.Sc., Computer Science, University of Central Florida, Orlando, FL
 August 2013 — August 2015, (407)823-2156
 B.Sc., Mathematics and Computer Science, Istanbul Kultur University, Istanbul, Türkiye
 September 2006 — July 2010, +90(212)498-4141
-WORK EXPERIENCE
+
+WORK EXPERIENCE:
 1.	Assistant Professor at Karabuk University 
 09/08/2025 - Present
          • Faculty of Computer Science.
@@ -42,9 +46,11 @@ Publication: Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challe
 3.	Scientific Solutions Engineer at Flywheel Inc.
 Mar 2021 — April 2022, (612)223-7359
          • Various deep learning models were developed for several projects such as body parts classification, Pneumonia classification, MRI brain pre-processing algorithms and segmentation, MRI Quality QC classification, and Federated Learning using AWS. API testing was implemented by using Pytest library.
+
 4.	AI Algorithm Engineer at Roche Molecular Systems
 May 2020 — Mar 2021, (925)225-0758
          • Pathology image analysis (H&E-stained images) for cancer prognosis prediction: A deep learning framework was developed for Nuclei segmentation using a Dynamic U-Net architecture and applied some of the Pyradiomics features such as morphological, texture, shape, GLCM, and Run Length features extraction and selection algorithms to detect Diffuse Large B-Cell Lymphoma.
+
 5.	Research Assistant at UCF, Orlando, FL
 August 2015 — April 2020
          • Research: The Ph.D. dissertation presents adversarial attacks on deep learning models by natural and digital perturbations on images.
@@ -58,22 +64,27 @@ August 2015 — April 2020
          Project: “Directed Adversarial Attacks on Fingerprints using Attributions,” International Conference on Biometrics, Crete, Greece, June 4-7, 2019. Collaborative work with RBC Bank.
 •	This paper presents an approach that uses attribution analysis to identify the fingerprint region to correct classification, and then perturbs the fingerprint using error masks derived from a neural network to generate an adversarial fingerprint; therefore, the original fingerprint is classified as that it belongs to someone else with this generated adversarial fingerprint. That is, it attacks a novel fingerprint recognition system based on transfer learning. IQA metrics applied to calculate the difference between the original and perturbed fingerprints. The VeriFinger SDK is used to detect the minutiae and perform matching between the original and perturbed fingerprints. The matching score is above 250, which reinforces the fact that there is virtually no loss between the original and perturbed fingerprints.
          • Teaching: Recitations for the classes of Computer Logic & Organization, C Programming and Systems Software.
+
 6.	Deep Learning Research Scientist Intern at Siemens Healthineers, Princeton, NJ
 December 2017 — May 2018, (609)734-6500
          · An end-to-end model was created for Vessel Centerline Tracing for aorta/vertebral/carotid artery 3-D medical volumes, which are contrasted CT, non-contrasted CT, C-arm CT and MR images, using Deep Reinforcement Learning with Convolutional Neural Networks. The experiments are conducted using Python language with Theano and Lasagne libraries. Precise vascular segmentation and centerline detection are crucial for pre-surgery planning in vascular disease treatment.
+
 7.	Software Test Engineer at Vodafone, Istanbul, Turkey
 March 2013 — August 2013, +90(850)542-0000
          · Unit, integration, acceptance and system testing using regression analysis, SQL and JIRA.
+
 8.	Software Test Specialist at TTNET, Istanbul, Turkey
 September 2010 — September 2011, +90(212)309-1000
         · Developing test plans/scripts and passed to live version.	                           
-Contact
+Contact:
 mesut.ozdag@karabuk.edu.tr
-Links
+
+Links:
 1.	linkedin.com/in/mesutozdag
 2.	https://unis.karabuk.edu.tr/akademisyen-detay/mesut.ozdag
 3.	https://t.ly/TZ9zw (Google Scholar)
-Skills
+
+Skills:
 - AI model development
 - Algorithm research & publications
 - Data analysis
@@ -85,7 +96,8 @@ Skills
 - AWS, OpenCV, Dockerfile
 - BeautifulSoup, matplotlib, pandas, numpy, scipy, seaborn
 - SoapUI, JIRA, HP QC & QTP
-Highlighted Projects
+
+Highlighted Projects:
 - Body parts classification.
 - Pneumonia classification.
 - MRI brain pre-processing and segmentation.
@@ -99,7 +111,8 @@ Highlighted Projects
 - Diffeomorphic Medical Image Registration using B-Splines.
 - Lung Lobe Segmentation of CT images on LOLA11 dataset.
 - Stereo Reconstruction and Affine Structure from Motion. 
-Selected Courses
+
+Selected Courses:
 - Data Structures and Algorithms
 - Discrete Structures
 - Computer Logic and Organization
@@ -108,7 +121,7 @@ Selected Courses
 - Computer Vision
 - Machine Learning Algorithms
 
-Certifications
+Certifications:
 - Neural Networks and Deep Learning Specialization by Coursera 
 
 <img width="505" height="708" alt="image" src="https://github.com/user-attachments/assets/dba84f4e-edbc-403d-8c43-3fe545e91f09" />
