@@ -75,9 +75,11 @@ August 2015 — April 2020
          Publication.2: “On the Susceptibility of Deep Neural Networks to Natural Perturbations,” Mesut Ozdag, Sunny Raj, Steven Fernandes, Laura L. Pullum, Sumit Kumar Jha.  Artificial Intelligence Safety at IJCAI, Macao, China, Aug 11-12, 2019. Collaborative work with Air Force Research Lab and Oak Ridge National Lab.
 •	This paper uses stereo images from the Cityscapes self-driving car dataset and computer graphics techniques using OpenCV to mimic realistic naturally occurring weather conditions. It demonstrates that the Xception deep learning model is the most robust one among others against natural weather conditions.
 •	Selected BEST PAPER CANDIDATE.
-         Project: “Directed Adversarial Attacks on Fingerprints using Attributions,” International Conference on Biometrics, Crete, Greece, June 4-7, 2019. Collaborative work with RBC Bank.
+         
+Project: “Directed Adversarial Attacks on Fingerprints using Attributions,” International Conference on Biometrics, Crete, Greece, June 4-7, 2019. Collaborative work with RBC Bank.
 •	This paper presents an approach that uses attribution analysis to identify the fingerprint region to correct classification, and then perturbs the fingerprint using error masks derived from a neural network to generate an adversarial fingerprint; therefore, the original fingerprint is classified as that it belongs to someone else with this generated adversarial fingerprint. That is, it attacks a novel fingerprint recognition system based on transfer learning. IQA metrics applied to calculate the difference between the original and perturbed fingerprints. The VeriFinger SDK is used to detect the minutiae and perform matching between the original and perturbed fingerprints. The matching score is above 250, which reinforces the fact that there is virtually no loss between the original and perturbed fingerprints.
-         • Teaching: Recitations for the classes of Computer Logic & Organization, C Programming and Systems Software.
+         
+• Teaching: Recitations for the classes of Computer Logic & Organization, C Programming and Systems Software.
 
 6.	Deep Learning Research Scientist Intern at Siemens Healthineers, Princeton, NJ
 December 2017 — May 2018, (609)734-6500
